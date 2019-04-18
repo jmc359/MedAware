@@ -6,7 +6,7 @@ This requires python (specifically SimpleHTTPServer)
 
 ## Run Webpage
 
-Run in a terminal window:
+Run from the root directory of the repo in a terminal window:
 ```python -m SimpleHTTPServer```
 
 Then in a browser go to ```localhost:<port#>```
