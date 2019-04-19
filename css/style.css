@@ -121,8 +121,8 @@ p{
 }
 .top-section-header > p{
 	margin:0;
-	color:rgba(0,0,0,.4);
-	font-size:16px;
+	color:rgba(1,1,1,0.8);
+	font-size:18px;
 }
 
 
@@ -170,9 +170,9 @@ p{
 	font-weight:300;
 }
 .intro-text > p{
-	font-size:20px;
+	font-size:22px;
 	margin:0;
-	color:rgba(0,0,0,.4);
+	color:rgba(0,0,0,0.8);
 	margin-bottom:55px;
 }
 .intro-cols .phone{
