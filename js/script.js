@@ -38,7 +38,7 @@ $(function(){
 	$('.screenshots-slider li > .inner > .overlay > a').magnificPopup({
 		type: 'image',
 		gallery:{
-			enabled:true
+			enabled: false
 		}
 	});
 	
@@ -47,7 +47,7 @@ $(function(){
 	=========================================================================*/
 	$('.testimonials-slider').owlCarousel({
 		items: 1,
-		autoplay: true,
+		autoplay: false,
 		autoplaySpeed: 1000
 	});
 	
@@ -56,7 +56,7 @@ $(function(){
 	=========================================================================*/
 	$('.screenshots-slider').owlCarousel({
 		items: 4,
-		autoplay: true,
+		autoplay: false,
 		autoplaySpeed: 1500,
 		responsive: {
 			1024: {
